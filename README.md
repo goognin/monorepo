@@ -24,8 +24,7 @@ Across the member organizations, there is **$650K being deployed towards defendi
  
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/samwilliams.png" height="100"> "The web is humanity's best shot to bypass gatekeepers and speak to each other directly." ~ <a href="https://twitter.com/samecwilliams">Sam Williams</a>🇬🇧 of <a href="https://www.arweave.org/">Arweave</a>, <b>300GB/day</b> used.
  
-<p align="center"><img src="![round-crypto-laser](https://user-images.githubusercontent.com/15817550/161200209-e4aae090-5d1b-47fb-a9b9-cfd695490367.jpg)
-" height="100"> "We are ready to build a new civilization of prosperity, where people focus on creativity and exploration instead of survival. Open-sourcing valuable technologies is a great tool to move forward." ~ <a href="https://twitter.com/georgegoognin">George Goognin</a>🌍 of <a href="https://evita.one/">Evita</a>.
+<p align="center"><img src="https://user-images.githubusercontent.com/15817550/161200209-e4aae090-5d1b-47fb-a9b9-cfd695490367.jpg" height="100" /> "We are ready to build a new civilization of prosperity, where people focus on creativity and exploration instead of survival. Open-sourcing valuable technologies is a great tool to move forward." ~ <a href="https://twitter.com/georgegoognin">George Goognin</a>🌍 of <a href="https://evita.one/">Evita</a>.
 
 ---
 <p align="center">Please fork and sign your own name, listing your values you wish to be reflected more loudly on the internet.</p>
