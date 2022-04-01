@@ -23,6 +23,8 @@ Across the member organizations, there is **$650K being deployed towards defendi
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/david-vorick.png" height="100"> "It is more important than ever to ensure everyone has access to open, censorship resistant social media." ~ <a href="https://twitter.com/DavidVorick">David Vorick</a>🇺🇸 of <a href="https://siasky.net/">Sia</a>, <b>2M+</b> users.
  
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/samwilliams.png" height="100"> "The web is humanity's best shot to bypass gatekeepers and speak to each other directly." ~ <a href="https://twitter.com/samecwilliams">Sam Williams</a>🇬🇧 of <a href="https://www.arweave.org/">Arweave</a>, <b>300GB/day</b> used.
+ 
+<p align="center"><img src="https://avatars.githubusercontent.com/u/15817550?v=4" height="100"> "We are ready to build a new civilization of prosperity, where people focus on creativity and exploration instead of survival. Open-sourcing valuable technologies is a great tool to move forward." ~ <a href="https://twitter.com/georgegoognin">George Goognin</a>🌍 of <a href="https://evita.one/">Evita</a>.
 
 ---
 <p align="center">Please fork and sign your own name, listing your values you wish to be reflected more loudly on the internet.</p>
